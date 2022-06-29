@@ -6,3 +6,6 @@ tests/temp
 .phpunit.result.cache
 .php-cs-fixer.cache
 tests/CreatePermissionCustomTables.php
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
